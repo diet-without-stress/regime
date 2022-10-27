@@ -28,6 +28,6 @@ et aussi selectionner les aliments correspondant à un régime DASH (Pour hypert
 3/ Ensuite vous choisissez une des 2 méthodes de calcul de poids idéal et votre type de morphologie (K)
 4/ Ce qui vous donne une valeur en kilocalories (Kcal) de métabolisme estimé journalier 
 5/ Vous selectionnez ensuite la dureté de votre régime: Kcal de nouriture en deça de la valeur estimé
-6/ Ensuite vous rentrez tous les jours votre mesure de poids et le detail des apport en nouriture 
+6/ Ensuite vous rentrez tous les jours votre mesure de poids et le detail des apport en nourriture 
 Ceci jusqu'à ce que vous atteigniez votre poids idéal
   
