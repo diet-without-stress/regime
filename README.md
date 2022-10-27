@@ -25,7 +25,7 @@ et aussi selectionner les aliments correspondant à un régime DASH (Pour hypert
 
 [ Comment ca se passe: ] <br />
 1/ Vous comprennez ce que l'on veux dire avec la reduction de la poche stomacale (voir pdf doc)<br />
-2/ Puis vous commencer par rentrer vos données de base sex age taille ect. <br />
+2/ Puis vous commencez par rentrer vos données de base: sex age taille ect. <br />
 3/ Ensuite vous choisissez une des 2 méthodes de calcul de poids idéal et votre type de morphologie (K) <br />
 4/ Ce qui vous donne une valeur en kilocalories (Kcal) de métabolisme estimé journalier  <br />
 5/ Vous selectionnez ensuite la dureté de votre régime: Kcal de nourriture en deça de la valeur estimée <br />
