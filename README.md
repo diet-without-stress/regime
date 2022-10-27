@@ -6,7 +6,7 @@ The spreadsheet can track glycemic control for obese and diabetic type II people
 and also select the food corresponding to a DASH diet (For hypertension)
 
 [ How's it going: ]
-1 / You understand what we mean with the reduction of the stomach pocket
+[1] You understand what we mean with the reduction of the stomach pocket
 2/ Then you start by entering your basic data sex age height ect.
 3/ Then you choose one of the 2 ideal weight calculation methods and your type of morphology (K)
 4/ Which gives you a value in kilocalories (Kcal) of estimated daily metabolism
