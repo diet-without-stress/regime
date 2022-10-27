@@ -6,7 +6,7 @@ The spreadsheet can track glycemic control for obese and diabetic type II people
 and also select the food corresponding to a DASH diet (For hypertension)
 
 [ How's it going: ] <br />
-1/ You understand what we mean with the reduction of the stomach pocket <br />
+1/ You understand what we mean with the reduction of the stomach pocket (see pdf doc)<br />
 2/ Then you start by entering your basic data sex age height ect. <br />
 3/ Then you choose one of the 2 ideal weight calculation methods and your type of morphology (K) <br />
 4/ Which gives you a value in kilocalories (Kcal) of estimated daily metabolism <br />
@@ -24,7 +24,7 @@ Le tableur peut suivre un contrôle glycémique pour les personnes obèse et dia
 et aussi selectionner les aliments correspondant à un régime DASH (Pour hypertention) <br />
 
 [ Comment ca se passe: ] <br />
-1/ Vous comprennez ce que l'on veux dire avec la reduction de la poche stomacale <br />
+1/ Vous comprennez ce que l'on veux dire avec la reduction de la poche stomacale (voir pdf doc) br />
 2/ Puis vous commencer par rentrer vos données de base sex age taille ect. <br />
 3/ Ensuite vous choisissez une des 2 méthodes de calcul de poids idéal et votre type de morphologie (K) <br />
 4/ Ce qui vous donne une valeur en kilocalories (Kcal) de métabolisme estimé journalier  <br />
