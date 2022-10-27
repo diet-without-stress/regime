@@ -17,9 +17,9 @@ this until you reach your idéal weight <br />
 
 [ FR Une methode de régime pour la perte de poids ] <br />
 Basée sur la réduction de la poche stomacal pour les personne addict a la nourriture <br />
-et ensuite un calcul et contrôle des kilo calories de la nouriture absorbée jours apres jours <br />
+et ensuite un calcul et contrôle des kilo calories de la nourriture absorbée jours apres jours <br />
 a partir d'un tableur excel / OpenOffice calc. <br />
-Le tableur peut suivre un controle glycémique pour les personnes obèse et diabétiques type II <br />
+Le tableur peut suivre un contrôle glycémique pour les personnes obèse et diabétiques type II <br />
 et aussi selectionner les aliments correspondant à un régime DASH (Pour hypertention) <br />
 
 [ Comment ca se passe: ] <br />
