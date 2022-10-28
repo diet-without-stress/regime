@@ -12,7 +12,7 @@ and also select the food corresponding to a DASH diet (For hypertension)
 4/ Which gives you a value in kilocalories (Kcal) of estimated daily metabolism <br />
 5/ You then select the hardness of your diet: Kcal of food below the estimated value <br />
 6/ Next you enter every day: the date, your weight measurement, and the details of your food intake. <br />
-   Which MUST NOT be higher than the one chosen at 5/ <br />
+   Which MUST NOT be higher than thekcal value chosen at 5/ <br />
 this until you reach your idéal weight <br /> 
 
 
@@ -30,6 +30,6 @@ et aussi selectionner les aliments correspondant à un régime DASH (Pour hypert
 4/ Ce qui vous donne une valeur en kilocalories (Kcal) de métabolisme estimé journalier  <br />
 5/ Vous selectionnez ensuite la dureté de votre régime: Kcal de nourriture en deça de la valeur estimée <br />
 6/ Puis vous saisissez tous les jours: la date, votre mesure de poids, et le detail des apports en nourriture  <br />
-   qui NE DOIT PAS dépasser celle choisie en 5/ <br />
+   qui NE DOIT PAS dépasser la valeur de kcal choisi en 5/ <br />
 Ceci jusqu'à ce que vous atteigniez votre poids idéal <br />
   
