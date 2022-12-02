@@ -3,7 +3,7 @@ Based on stomach pouch reduction for food addicts <br />
 and then a calculation and control, day by day, of kilo calories of the food absorbed <br />
 with an excel spreadsheet / OpenOffice calc. <br />
 The spreadsheet can track glycemic control for obese and diabetic type II people <br />
-and also select the food corresponding to a DASH diet (For hypertension)
+and also select the food corresponding to a DASH diet (For hypertension) <br />
 NOTA: The spreadsheets are not yet translated FR->US only the doc pdf is google translated. 
 
 [ How's it going: ] that is very simple<br />
