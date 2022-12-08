@@ -22,7 +22,7 @@ Basée sur la réduction de la poche stomacale pour les personnes addict a la no
 et ensuite un calcul et contrôle des kilocalories (kcal) de la nourriture absorbée <br /> 
 jours apres jours à partir d'un tableur excel / OpenOffice calc. <br />
 Le tableur peut suivre un contrôle glycémique pour les personnes obèse et diabétiques type II <br />
-et aussi selectionner les aliments correspondant à un régime DASH (Pour hypertention) <br />
+et aussi selectionner les aliments correspondant à un régime DASH (Pour l'hypertension) <br />
 
 [ Comment ca se passe: ] mais c'est très simple<br />
 1/ Vous comprennez BIEN ce que l'on veux dire avec la reduction de la poche stomacale (voir pdf doc)<br />
